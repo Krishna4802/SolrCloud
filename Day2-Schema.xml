@@ -1,89 +1,41 @@
 Day 2 task - Schema.xml
 
 
-
-<?xml version="1.0" encoding="UTF-8" ?>
-
+<?xml version="1.0" encoding="UTF-8" ?
 <schema name="default-config" version="1.6">
-
  
-
   <!-- Specify the data types -->
 
   <types>
-
- 
-
     <!-- Define custom data types -->
-
     <fieldType name="string" class="solr.StrField" />
-
     <fieldType name="text_general" class="solr.TextField" />
-
     <fieldType name="pint" class="solr.IntPointField" docValues="true" />
-
     <fieldType name="date" class="solr.TrieDateField" />
-
- 
-
     <!-- Add the required fieldType for the _version_ field -->
-
     <fieldType name="_version_" class="solr.LongPointField" docValues="true" />
-
- 
-
   </types>
 
- 
-
   <!-- Define fields for the document -->
-
   <fields>
-
- 
-
     <!-- Regular fields -->
-
     <field name="id" type="string" indexed="true" stored="true" required="false" />
-
     <field name="title" type="text_general" indexed="true" stored="true" />
-
     <field name="content" type="text_general" indexed="true" stored="true" />
-
     <field name="views" type="pint" indexed="true" stored="true" />
-
     <field name="publish_date" type="date" indexed="true" stored="true" />
-
- 
-
     <!-- Add the _version_ field with the required configuration -->
-
     <field name="_version_" type="_version_" indexed="true" stored="true" />
-
- 
-
   </fields>
 
- 
 
   <!-- Define dynamic fields -->
-
   <dynamicField name="*_str" type="string" indexed="true" stored="true" />
-
   <dynamicField name="*_txt" type="text_general" indexed="true" stored="true" />
-
   <uniqueKey>id</uniqueKey>
 
- 
-
- 
 
   <!-- Define copy fields to copy values from one field to another -->
-
   <copyField source="title" dest="title_txt" />
-
   <copyField source="content" dest="content_txt" />
-
- 
-
 </schema>
