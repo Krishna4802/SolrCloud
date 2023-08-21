@@ -15,31 +15,31 @@ ChatGpt Link : https://chat.openai.com/share/1c0d0229-c255-4644-a85f-8a744932aad
 
 Commands used
 
-* docker network create zknet
-* docker run -d --net zknet --name zk1 -e ZOO_MY_ID=1 -e ZOO_SERVERS="server.1=0.0.0.0:2888:3888 server.2=zk2:2888:3888 server.3=zk3:2888:3888" zookeeper:3.6
-* docker run -d --net zknet --name zk2 -e ZOO_MY_ID=2 -e ZOO_SERVERS="server.1=zk1:2888:3888 server.2=0.0.0.0:2888:3888 server.3=zk3:2888:3888" zookeeper:3.6
-* docker run -d --net zknet --name zk3 -e ZOO_MY_ID=3 -e ZOO_SERVERS="server.1=zk1:2888:3888 server.2=zk2:2888:3888 server.3=0.0.0.0:2888:3888" zookeeper:3.6
-* docker logs zk1
-* docker logs zk2
-* docker logs zk3
+        * docker network create zknet
+        * docker run -d --net zknet --name zk1 -e ZOO_MY_ID=1 -e ZOO_SERVERS="server.1=0.0.0.0:2888:3888 server.2=zk2:2888:3888 server.3=zk3:2888:3888" zookeeper:3.6
+        * docker run -d --net zknet --name zk2 -e ZOO_MY_ID=2 -e ZOO_SERVERS="server.1=zk1:2888:3888 server.2=0.0.0.0:2888:3888 server.3=zk3:2888:3888" zookeeper:3.6
+        * docker run -d --net zknet --name zk3 -e ZOO_MY_ID=3 -e ZOO_SERVERS="server.1=zk1:2888:3888 server.2=zk2:2888:3888 server.3=0.0.0.0:2888:3888" zookeeper:3.6
+        * docker logs zk1
+        * docker logs zk2
+        * docker logs zk3
 
-Based on the my_id In logs, we can find the leader and followers
+# Based on the my_id In logs, we can find the leader and followers
 
     * 2023-08-04 11:02:29,556 [myid:1] - INFO  [QuorumPeer[myid=1](plain=disabled)(secure=disabled):Follower@75] - FOLLOWING - LEADER ELECTION TOOK - 9825 MS
     * 2023-08-04 11:02:19,306 [myid:2] - INFO  [QuorumPeer[myid=2](plain=disabled)(secure=disabled):Leader@581] - LEADING - LEADER ELECTION TOOK - 232 MS
     * 2023-08-04 11:02:35,125 [myid:3] - INFO  [QuorumPeer[myid=3](plain=disabled)(secure=disabled):Follower@75] - FOLLOWING - LEADER ELECTION TOOK - 15 MS
 
-* Therefore leader is zk2
+        * Therefore leader is zk2
 
 
-Killing Leader
+# Killing Leader
 
-* docker stop zk2(leader)
-* Checking logs again 
-        * docker logs zk1
-        * docker logs zk3
+        * docker stop zk2(leader)
+        * Checking logs again 
+                * docker logs zk1
+                * docker logs zk3
 
-Logs:
+# Logs:
     * 2023-08-04 11:02:35,125 [myid:3] - INFO  [QuorumPeer[myid=3](plain=disabled)(secure=disabled):Follower@75] - FOLLOWING - LEADER ELECTION TOOK - 15 MS
     * 2023-08-04 11:45:34,941 [myid:3] - INFO  [QuorumPeer[myid=3](plain=disabled)(secure=disabled):Leader@581] - LEADING - LEADER ELECTION TOOK - 211 MS
 
