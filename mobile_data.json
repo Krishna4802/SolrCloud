@@ -1,0 +1,9004 @@
+{
+  "add":[
+  {
+    "id": 9643,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 329,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6715,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 320,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8862,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 272,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6895,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 200,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5830,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 370,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5724,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 368,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3532,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 296,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9085,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 430,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6251,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 329,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8577,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 472,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8042,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 357,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4339,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 361,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5827,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 427,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1629,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 355,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9607,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 489,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9016,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 351,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1565,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "White",
+    "views": 434,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4419,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 225,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3680,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 182,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5594,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 349,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4009,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 375,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6599,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 317,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9657,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "White",
+    "views": 99,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9502,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 455,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4939,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 453,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1733,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 285,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3505,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 101,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9470,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 442,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6217,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 350,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2836,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 385,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7157,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 79,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4196,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 248,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6647,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "White",
+    "views": 375,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2964,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 274,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2065,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "White",
+    "views": 394,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2159,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 278,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4189,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 317,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9331,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "White",
+    "views": 400,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2922,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 199,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7998,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 169,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6459,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 116,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4978,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 451,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5017,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 269,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5159,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 320,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5789,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 256,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9428,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 218,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3147,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 161,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7279,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 322,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7790,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 337,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8549,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 281,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7216,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 165,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9816,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 95,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6375,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 476,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5630,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 218,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9084,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 246,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2803,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 120,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5330,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 239,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6661,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 419,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7714,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 164,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7742,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 175,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7684,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 246,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9066,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 357,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8168,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 290,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7356,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 474,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5848,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 469,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7268,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 382,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6092,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 454,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2191,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 224,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4129,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 287,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1805,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 249,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3185,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 178,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4023,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 479,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5871,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 274,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5219,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 403,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9387,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 429,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4709,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 119,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5469,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 383,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4498,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 423,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3083,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 226,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8912,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 425,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3723,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 148,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1772,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 457,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6160,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 439,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4822,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 468,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9208,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 177,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3442,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 316,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1080,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 365,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8492,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 388,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5345,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 462,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2741,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 173,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4539,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 451,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3293,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 446,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3871,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 490,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6976,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 276,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6299,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 295,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2893,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 182,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3329,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "White",
+    "views": 118,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6073,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 399,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6328,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 62,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3138,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 79,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9277,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 207,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2317,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "White",
+    "views": 491,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5733,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 155,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8765,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 342,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7977,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 190,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6307,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 494,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9567,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "White",
+    "views": 188,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5976,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 126,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6165,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 148,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7060,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 359,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4511,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 377,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9370,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7553,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 81,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1732,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 408,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4759,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 244,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2351,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 266,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1080,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 202,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9315,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "White",
+    "views": 263,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5731,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 326,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8409,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 300,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2779,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 379,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7345,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 393,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5589,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 106,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7557,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 96,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4477,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 343,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8351,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "White",
+    "views": 140,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2860,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 489,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2893,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 205,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7346,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 165,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1487,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 253,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4047,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 390,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6741,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 337,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9946,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 319,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5181,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "White",
+    "views": 406,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9846,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 322,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2939,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 475,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1049,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 176,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6321,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 259,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2530,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "White",
+    "views": 308,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2801,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 115,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7683,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 261,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8010,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 125,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9553,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 488,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9688,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 289,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4069,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 448,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2262,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 443,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2644,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 167,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1651,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 281,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9508,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 226,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7509,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 359,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4838,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 141,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1445,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 144,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2997,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 244,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3819,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "White",
+    "views": 131,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4783,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 234,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3037,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 267,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1216,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "White",
+    "views": 345,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3341,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 216,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2971,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 474,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7704,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 437,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5557,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "White",
+    "views": 466,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3535,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 237,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9088,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "White",
+    "views": 413,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9304,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 101,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2719,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 424,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6412,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 442,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2523,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 419,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9054,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 266,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7464,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 332,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2004,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 273,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5823,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 354,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3403,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 246,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1493,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 426,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2703,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 345,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3435,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2066,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 363,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1454,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 129,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1252,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 115,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3432,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 485,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2714,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 108,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7012,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 445,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7118,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 181,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2159,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "White",
+    "views": 384,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1979,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 187,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8484,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 109,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4473,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 75,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1057,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 155,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9602,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 359,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2125,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 344,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2884,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 57,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4151,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 340,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7370,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 398,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4887,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 448,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7121,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 145,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6172,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 205,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6646,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 88,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3294,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9962,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8174,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 212,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7250,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 460,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7657,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "White",
+    "views": 63,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1708,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 493,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7914,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 66,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2028,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 173,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2176,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 374,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8772,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 471,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6614,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 54,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3352,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 115,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6151,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 474,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6422,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 362,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4245,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "White",
+    "views": 100,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1590,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 112,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3777,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 379,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5467,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 464,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4248,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 476,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1988,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 338,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2417,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 235,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5438,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 444,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5011,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 135,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5990,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 466,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8070,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 309,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1715,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 346,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5086,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 72,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2727,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 240,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1745,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 232,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2767,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 146,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7078,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 393,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1581,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 436,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7906,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 423,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2582,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 116,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3353,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 369,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4928,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 148,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9577,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 120,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8739,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "White",
+    "views": 472,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2488,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 454,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4957,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 275,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5106,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 226,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3316,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 106,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9435,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 87,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8381,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 366,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9383,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 261,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7013,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 77,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1573,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 307,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7125,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 161,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4848,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 372,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5132,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 290,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2986,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 300,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7148,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 459,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8286,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 111,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3054,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 66,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4954,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 282,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2070,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 347,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4262,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 60,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4301,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 80,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4864,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 154,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8908,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 235,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9639,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 297,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2956,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "White",
+    "views": 120,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5180,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 114,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3638,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 328,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8690,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 101,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2397,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 476,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3747,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 390,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5212,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 435,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1183,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "White",
+    "views": 263,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7969,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 326,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2761,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 464,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8674,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 448,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6331,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 418,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4701,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 222,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4716,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 377,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5127,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 316,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7728,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 327,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9391,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 275,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4029,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 386,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4080,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 273,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6234,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 473,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4140,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 163,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9810,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 267,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2417,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 114,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3124,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 290,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2876,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 117,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4954,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 355,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6076,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 82,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1630,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 142,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4375,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 281,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4045,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 50,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9253,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 401,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5857,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 390,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7894,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 339,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8901,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 110,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4018,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 238,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1579,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 404,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2950,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 242,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2472,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 260,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6193,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 359,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4041,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 80,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7168,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 317,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8798,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 391,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5369,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 467,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2784,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 140,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3850,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 373,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5443,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 183,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7347,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 415,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9643,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 245,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2858,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 160,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8118,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 293,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1006,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 247,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2954,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 302,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5811,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 214,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3667,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 294,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2740,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 429,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5996,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 77,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8776,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 166,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7359,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 65,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5665,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "White",
+    "views": 461,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6185,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 167,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9782,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 249,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6178,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 348,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7738,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 362,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2517,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "White",
+    "views": 440,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4381,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 304,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4155,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 113,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7648,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 268,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1440,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 128,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1708,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "White",
+    "views": 183,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4682,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 332,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9118,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "White",
+    "views": 243,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7100,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 122,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6133,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "White",
+    "views": 149,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8563,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 341,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3212,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 337,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3280,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 339,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4609,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 244,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6651,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 104,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5295,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 143,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2731,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 449,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6496,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 399,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3924,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 434,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4376,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 203,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4924,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "White",
+    "views": 494,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3696,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "White",
+    "views": 360,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4369,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "White",
+    "views": 170,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5484,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 227,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8010,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 368,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8111,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 390,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1897,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 213,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5437,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 319,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9368,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "White",
+    "views": 439,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5060,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 193,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2834,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 102,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4796,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 96,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8252,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 164,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9005,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 419,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9354,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 254,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7296,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 360,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4085,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 419,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5539,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 149,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4658,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 126,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3324,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 295,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5004,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "White",
+    "views": 482,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2775,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "White",
+    "views": 77,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8058,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 461,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5596,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 225,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2387,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 149,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7468,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 245,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4794,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 119,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8467,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 449,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3727,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "White",
+    "views": 358,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7843,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 328,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1055,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 186,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3470,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 187,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4899,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 246,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4578,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 56,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4588,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 89,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6605,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 152,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9754,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 443,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9966,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 83,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3286,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 424,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3438,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "White",
+    "views": 161,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5349,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 464,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1417,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 64,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5560,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 499,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3136,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "White",
+    "views": 271,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2093,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 193,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9382,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 146,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7662,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 299,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4655,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 479,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6747,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 97,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1601,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 172,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8057,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 256,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3760,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "White",
+    "views": 255,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3540,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 485,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7598,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 327,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6619,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 118,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3398,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 155,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9274,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 475,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7072,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 426,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4303,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 133,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6804,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 147,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1603,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 353,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3313,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 411,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3413,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 298,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9644,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "White",
+    "views": 316,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1768,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 194,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6921,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 299,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1162,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 459,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6384,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "White",
+    "views": 114,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1996,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 108,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4766,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 242,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7758,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 113,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4222,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 99,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7753,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 427,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9913,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 63,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5600,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 145,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3842,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 419,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9924,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 123,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3209,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 422,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2444,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 461,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3528,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 111,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7549,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 432,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8019,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 431,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6416,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 398,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6087,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "White",
+    "views": 473,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1054,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 375,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1035,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 132,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8805,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 250,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4504,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 460,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4422,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 319,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6178,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 244,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4805,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 326,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2068,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 117,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2549,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 244,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3977,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 380,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6039,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 387,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4117,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 267,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8810,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 285,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7960,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 99,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9564,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "White",
+    "views": 311,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4407,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 74,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2793,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 315,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9418,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 230,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4371,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "White",
+    "views": 338,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7459,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 425,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8753,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 59,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2547,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 92,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1158,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 481,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1343,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 474,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4098,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 473,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4972,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 310,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6039,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 131,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3680,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 331,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8422,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 56,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5656,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 341,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1788,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 478,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5900,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 112,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9541,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 211,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3156,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 454,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5787,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 58,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4853,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8930,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 173,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1656,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 109,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3025,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 167,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1716,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 128,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8703,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 484,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9029,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 110,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3728,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 194,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5861,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 104,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8621,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 429,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2040,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 95,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7764,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 258,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4095,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "White",
+    "views": 138,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5099,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 242,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3502,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 158,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6532,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 308,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5664,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 274,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7489,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 421,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7235,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 92,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1236,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "White",
+    "views": 214,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2777,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 490,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1156,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 346,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7319,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 282,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8344,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 259,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3706,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 490,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5856,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 255,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2627,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 349,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2334,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 318,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8337,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 274,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2392,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 139,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8065,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 339,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6353,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "White",
+    "views": 161,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3377,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 358,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5743,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 80,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6404,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 109,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9588,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 481,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8117,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 222,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2680,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 300,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1950,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 326,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8180,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "White",
+    "views": 125,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4004,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 404,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3373,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 141,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5635,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "White",
+    "views": 109,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3233,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 203,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9946,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 141,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3820,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 149,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3430,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 448,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9426,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "White",
+    "views": 350,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9017,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 198,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4805,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 347,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9642,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "White",
+    "views": 365,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1654,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 378,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6200,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 83,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9808,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 187,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4351,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 231,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4728,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 305,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6493,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 332,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9530,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 486,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9100,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 168,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1262,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 322,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4294,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 355,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6673,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "White",
+    "views": 498,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9379,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 66,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4869,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 485,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2693,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 123,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4686,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 257,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2273,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 58,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4297,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 429,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6823,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 459,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1268,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 494,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6406,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 178,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5970,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 245,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1899,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 345,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7646,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 500,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9085,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 370,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2238,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 487,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8435,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 63,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3866,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "White",
+    "views": 191,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5759,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 458,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7759,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "White",
+    "views": 218,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3855,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 489,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3809,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 350,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1046,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 140,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5967,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 436,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5992,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9524,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 317,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9137,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 275,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7076,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "White",
+    "views": 67,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4690,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 84,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2000,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 268,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5692,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 399,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5189,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 55,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1901,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 334,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3511,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 281,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9033,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 354,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9648,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 403,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7124,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 242,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2829,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 246,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3447,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 190,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3210,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 419,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4270,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 220,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7455,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 248,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5919,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "White",
+    "views": 115,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4464,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 234,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6796,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 385,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9712,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 155,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7270,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 433,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8326,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 58,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4918,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 77,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8077,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 203,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2761,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 201,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6907,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 425,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5734,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 197,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1940,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 117,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7863,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 322,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6483,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 128,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6542,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 369,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4753,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 490,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8460,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 486,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4615,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 93,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8057,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 173,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2920,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "White",
+    "views": 281,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7428,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 86,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5218,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 143,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2700,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 253,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3898,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 110,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3290,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "White",
+    "views": 218,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2282,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 412,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9938,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 201,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7585,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 111,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4288,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "White",
+    "views": 322,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8291,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 370,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4767,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 252,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7545,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 386,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4998,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 158,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3277,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 444,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7556,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "White",
+    "views": 141,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6365,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 368,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6302,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 332,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2074,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 262,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9675,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 68,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9421,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "White",
+    "views": 460,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7025,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 415,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8465,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 288,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3888,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 182,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6350,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 136,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3507,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 386,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7099,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 90,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4621,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 124,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4618,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 184,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3935,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "White",
+    "views": 348,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8788,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 470,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4937,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 414,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4483,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 426,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8142,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "White",
+    "views": 256,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3541,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 225,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8825,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 331,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9096,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 387,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6605,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "White",
+    "views": 413,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2117,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "White",
+    "views": 324,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8589,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "White",
+    "views": 94,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1162,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 453,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2158,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 495,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5992,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 193,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7493,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 425,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7784,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 136,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8873,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 271,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8922,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 51,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8827,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 399,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8667,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 464,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7488,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 260,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7091,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 450,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7952,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 148,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2659,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 84,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5804,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 181,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1222,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 357,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4320,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 132,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9441,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 99,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6518,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 57,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9791,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 382,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2924,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 168,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3094,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "White",
+    "views": 254,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6669,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 490,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1041,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "White",
+    "views": 425,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1114,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 419,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9396,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "White",
+    "views": 273,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3552,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 334,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1173,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 167,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8095,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 220,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2083,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 181,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1260,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 153,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7017,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 211,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9471,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 427,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1169,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 263,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9679,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 199,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1502,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 450,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6992,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 296,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1134,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 373,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1072,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 52,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3417,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 464,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3910,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 449,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7181,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 319,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4488,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 238,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9848,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 253,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4466,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 416,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1668,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 335,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5127,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 440,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2997,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 436,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4572,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 125,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6825,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 393,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8842,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 379,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8682,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 276,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4168,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 275,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2683,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 361,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2138,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 237,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1077,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 411,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9507,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 477,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2182,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 391,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7039,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 94,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6043,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 382,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2292,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "White",
+    "views": 277,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3833,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 277,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9738,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 489,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9206,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 429,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4473,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 74,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3072,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 151,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2382,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 221,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9723,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "White",
+    "views": 465,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8634,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 349,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1609,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "White",
+    "views": 305,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7865,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 265,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1386,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 386,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5452,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 483,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2815,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 226,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2045,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 497,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8428,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "White",
+    "views": 431,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8320,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 156,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3291,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 490,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8111,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 459,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2049,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 428,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3994,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 362,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5256,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 345,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7445,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 420,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5843,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 135,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9819,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 59,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7820,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 170,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9249,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 495,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1304,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 296,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9687,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "White",
+    "views": 217,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6588,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 144,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6752,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 282,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3180,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 152,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3451,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 243,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6035,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 239,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9441,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 219,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6098,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 86,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5986,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 147,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9265,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 217,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1956,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 115,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6866,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 389,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4346,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "White",
+    "views": 186,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7014,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 306,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3690,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "White",
+    "views": 151,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2005,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 83,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9781,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 421,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4805,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 372,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8108,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 274,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9659,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 85,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8934,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 270,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7230,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "White",
+    "views": 127,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8106,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 378,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5499,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 298,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3422,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "White",
+    "views": 355,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6626,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 153,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2686,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 369,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9842,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 286,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6783,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "White",
+    "views": 328,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5991,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "White",
+    "views": 305,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5295,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 284,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1027,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "White",
+    "views": 193,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4705,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "White",
+    "views": 218,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7926,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 92,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8716,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 455,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7347,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 182,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2964,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 162,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7724,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 202,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7691,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "White",
+    "views": 300,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6246,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 377,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2822,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 103,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2328,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 256,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8622,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 124,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8187,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 150,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6861,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 234,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2428,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 172,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3349,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "White",
+    "views": 231,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8622,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 284,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4005,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 122,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3726,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 274,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8537,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 363,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5906,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 120,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3967,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 295,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5365,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9162,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 209,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6149,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 104,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2864,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "White",
+    "views": 351,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7241,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 253,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6613,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 383,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2394,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 91,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2706,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 420,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4573,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 162,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2684,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 423,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9164,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 82,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5100,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 199,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3845,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 299,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7573,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 429,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6717,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 286,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1151,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 192,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8505,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 409,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1181,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 222,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7358,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 334,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5986,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 133,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2162,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 130,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7121,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 154,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2590,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 137,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9443,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 495,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4953,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 158,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8869,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 342,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9036,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 230,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5067,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 132,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4390,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 136,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3585,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 487,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3684,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 466,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1040,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 350,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7936,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 400,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1281,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 96,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6414,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 350,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5894,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "White",
+    "views": 95,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4141,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 497,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8393,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 170,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5348,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 117,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1007,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "White",
+    "views": 64,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8705,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 225,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9045,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 61,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9098,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 479,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3842,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 443,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4277,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 156,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7618,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 57,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1065,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 185,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5369,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 361,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2567,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 251,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6574,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "White",
+    "views": 212,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7079,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 139,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1030,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 278,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5361,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 241,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3010,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 304,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5205,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 430,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2896,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "White",
+    "views": 144,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4981,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "White",
+    "views": 491,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1504,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 485,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7351,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 215,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4162,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 218,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1148,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 209,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8575,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "White",
+    "views": 469,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1376,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 271,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1153,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 423,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4393,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 411,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5283,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 432,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6787,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 155,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6132,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 55,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4752,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 433,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8094,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 73,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8475,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "White",
+    "views": 142,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8984,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 325,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6513,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 490,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4805,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 79,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9760,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 91,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1208,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 119,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1876,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 179,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3570,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 79,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9652,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 385,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5849,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 294,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5072,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 241,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4354,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 131,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6756,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 291,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8280,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "White",
+    "views": 228,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6135,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 117,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3852,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 281,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2359,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 390,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9395,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 159,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4233,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 106,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3260,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "White",
+    "views": 196,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3977,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 372,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2452,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 489,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6986,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 164,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6102,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "White",
+    "views": 76,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8805,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 305,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8408,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 460,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8716,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 423,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1967,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 115,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9325,
+    "brand": "Apple",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 404,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3793,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 187,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5121,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 304,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7960,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 68,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8306,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 370,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9389,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 371,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6649,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 411,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9582,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 288,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9741,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "White",
+    "views": 489,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2139,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 390,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1668,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 125,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3327,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 268,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8909,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 332,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4696,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 267,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8603,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 154,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6837,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 409,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8998,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "White",
+    "views": 360,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7024,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 475,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6431,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 285,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8960,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 382,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9399,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "White",
+    "views": 76,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2539,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 332,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8025,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 283,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3819,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "White",
+    "views": 499,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4293,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 372,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7846,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 443,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2500,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 246,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2329,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 296,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2783,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 356,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1415,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 307,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2441,
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "White",
+    "views": 85,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4234,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "White",
+    "views": 179,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4766,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 371,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9251,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 181,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9958,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 418,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7956,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "White",
+    "views": 467,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1300,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 327,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9468,
+    "brand": "Xiaomi",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 150,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2927,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 260,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3240,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 409,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4177,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 62,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2555,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 318,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9525,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 424,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7655,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 378,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8002,
+    "brand": "OnePlus",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "White",
+    "views": 327,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7107,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "White",
+    "views": 169,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4167,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 458,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9618,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 488,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7564,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 291,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8681,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 280,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5003,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 486,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4802,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6464,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 112,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2084,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 154,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6511,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 287,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3295,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 304,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9670,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 53,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1339,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 233,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8317,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 269,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7387,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 84,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3247,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 81,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2383,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 204,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2911,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "White",
+    "views": 126,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6437,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 235,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6609,
+    "brand": "Apple",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "White",
+    "views": 405,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2907,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "White",
+    "views": 129,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8783,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 397,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5286,
+    "brand": "Xiaomi",
+    "model": "iPhone 13",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 221,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6747,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "White",
+    "views": 179,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2744,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 458,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6781,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 191,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4360,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 71,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8975,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 187,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9092,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 102,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5594,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 73,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1576,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 388,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9440,
+    "brand": "Samsung",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 351,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5745,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 469,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6616,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 386,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8314,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 272,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2170,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 90,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2728,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 261,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6683,
+    "brand": "Google",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 482,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8633,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 487,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2002,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 152,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1921,
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 221,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6327,
+    "brand": "OnePlus",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 175,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7044,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 80,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2200,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 493,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8432,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "White",
+    "views": 285,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3391,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 431,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8007,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Red",
+    "views": 441,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6977,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 107,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3497,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 250,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3925,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Green",
+    "views": 338,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3344,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 118,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7024,
+    "brand": "Samsung",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 479,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2619,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 200,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3302,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "White",
+    "views": 146,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4542,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "White",
+    "views": 422,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7325,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 434,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5032,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 176,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2969,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Black",
+    "views": 329,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7850,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 193,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9812,
+    "brand": "Google",
+    "model": "P40 Pro",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 425,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6741,
+    "brand": "OnePlus",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 470,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8987,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 176,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3373,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 282,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2438,
+    "brand": "OnePlus",
+    "model": "Pixel 6",
+    "storage": "512GB",
+    "color": "White",
+    "views": 212,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7614,
+    "brand": "Apple",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 115,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 9436,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "Blue",
+    "views": 478,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3231,
+    "brand": "Xiaomi",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 177,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6617,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "White",
+    "views": 342,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2688,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 264,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2448,
+    "brand": "Samsung",
+    "model": "Pixel 6",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 288,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7649,
+    "brand": "Samsung",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 166,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4480,
+    "brand": "OnePlus",
+    "model": "OnePlus 9",
+    "storage": "512GB",
+    "color": "Green",
+    "views": 447,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6736,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 462,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1382,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 432,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3605,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 180,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8496,
+    "brand": "Google",
+    "model": "OnePlus 9",
+    "storage": "64GB",
+    "color": "Red",
+    "views": 254,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2467,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "White",
+    "views": 397,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4043,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 471,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7028,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "512GB",
+    "color": "Red",
+    "views": 303,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5930,
+    "brand": "Huawei",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 58,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 7237,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "64GB",
+    "color": "White",
+    "views": 195,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 3211,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 355,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1172,
+    "brand": "Huawei",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 178,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1647,
+    "brand": "OnePlus",
+    "model": "P40 Pro",
+    "storage": "128GB",
+    "color": "Green",
+    "views": 324,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6234,
+    "brand": "Xiaomi",
+    "model": "Galaxy S21",
+    "storage": "128GB",
+    "color": "Black",
+    "views": 242,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5087,
+    "brand": "Google",
+    "model": "iPhone 13",
+    "storage": "256GB",
+    "color": "Green",
+    "views": 296,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1652,
+    "brand": "Samsung",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 141,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5515,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "256GB",
+    "color": "Red",
+    "views": 79,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 2121,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "256GB",
+    "color": "Blue",
+    "views": 355,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4114,
+    "brand": "Google",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "White",
+    "views": 144,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1228,
+    "brand": "Google",
+    "model": "Redmi Note 10",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 76,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 5469,
+    "brand": "Apple",
+    "model": "OnePlus 9",
+    "storage": "256GB",
+    "color": "Black",
+    "views": 207,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6330,
+    "brand": "Apple",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 305,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 4602,
+    "brand": "Huawei",
+    "model": "Pixel 6",
+    "storage": "64GB",
+    "color": "Black",
+    "views": 161,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 6164,
+    "brand": "Xiaomi",
+    "model": "P40 Pro",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 384,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 1130,
+    "brand": "Huawei",
+    "model": "Galaxy S21",
+    "storage": "512GB",
+    "color": "Blue",
+    "views": 225,
+    "publish_date": "2023-08-08T04:58:33Z"
+  },
+  {
+    "id": 8186,
+    "brand": "Huawei",
+    "model": "Redmi Note 10",
+    "storage": "128GB",
+    "color": "Blue",
+    "views": 140,
+    "publish_date": "2023-08-08T04:58:33Z"
+  }
+]
+}
