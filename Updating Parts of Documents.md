@@ -88,3 +88,13 @@ May be specified as a single value, or as a list for multiValued fields.
     
     ]'
 
+
+
+## Setting model and date as false and updating the data
+
+* fq = model:*
+* facet.field = model
+
+<img width="1136" alt="Pasted Graphic 1" src="https://github.com/Krishna4802/SolrCloud/assets/139359113/153a69f5-a056-4d8f-9945-4b12a6a1ed65">
+
+
