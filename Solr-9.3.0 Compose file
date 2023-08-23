@@ -1,0 +1,37 @@
+Compose file
+
+version: '3.8'
+services:
+  solr-node1:
+    image: solr:9.3.0
+    container_name: solr-node1
+    environment:
+      - ZK_HOST=zookeeper1:2181
+    ports:
+      - "8983:8983"
+    networks:
+      - solrnet
+    depends_on:
+      - zookeeper1
+
+  zookeeper1:
+    image: zookeeper:latest
+    container_name: zookeeper1
+    ports:
+      - "2181:2181"
+    environment:
+      - ZOO_MY_ID=1
+    networks:
+      - solrnet
+
+networks:
+  solrnet:
+    driver: bridge
+
+
+
+
+
+Then add in zoo.cfg file 
+
+4lw.commands.whitelist=mntr,conf,ruok
