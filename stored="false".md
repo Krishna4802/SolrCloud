@@ -7,7 +7,6 @@
           5  tar -xzf solr-8.11.0.tgz
           6  cd solr-8.11.0
           7  bin/solr -e cloud -force
-      
       * bin/solr zk downconfig -n _default -d server/solr/configsets/nest -z 172.17.0.2:9983
       * Create the cluster as usual
       * Go the the file location - server/solr/configsets/test1/conf/
