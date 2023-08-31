@@ -1960,3 +1960,82 @@ After changing the file upconfig with the desired name
       "_root_": "P11!prod",
       "manuals": { "remove": { "id": "P11!D41" } }
     } ]'
+
+
+****
+
+
+## Aneesh Queries 
+
+
+        { "id": "P1",
+           "name_s": "Name P1",
+           "description_t": "Description P1",
+           "test_str_check_new":"P1",
+           "child_data1":[
+              {
+                 "id": "C1",
+                 "name_s": "Name C1",
+                 "description_t": "Description C1",
+                 "test_str_check_new":"C1"
+              },
+              {
+                 "id": "C2",
+                 "name_s": "Name C2",
+                 "description_t": "Description C2",
+                 "test_str_check_new":"C2"
+              }  
+           ]
+        }
+
+
+        <delete><query>*:*</query></delete>
+
+
+#### *  Remove a Child
+
+        {
+              "id": "P1",
+              "_root_": "P1",      
+              "child_data1": { "remove": { "id": "C1" } }
+        } 
+
+
+#### * Add a Child
+
+        {
+           "id": "P1",
+           "_root_": "P1",      
+           "child_data1": { "add": 
+           {
+              "id": "C3",
+              "name_s": "Name C3",
+              "description_t": "Description C3",
+              "test_str_check_new":"C3"
+           }
+        }
+        } 
+
+
+#### * Replace a Child
+
+        {
+           "id": "P1",
+           "_root_": "P1",      
+           "child_data1": { "set": 
+           {
+              "id": "C3",
+              "name_s": "Name C33"
+           }
+        }
+        } 
+
+
+#### * Update the field of a child
+
+        {
+           "id": "C2",
+           "_root_": "P1",      
+           "name_s": {"set":"Name C22"}
+        } 
+
