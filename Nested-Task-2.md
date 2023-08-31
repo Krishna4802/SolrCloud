@@ -1859,7 +1859,7 @@ After changing the file upconfig with the desired name
 #### * For indexing the parent and child individually
 
     curl -X POST -H "Content-Type: application/json" "http://localhost:8983/solr/test/update?commit=true" -d '[
-       [{ "id": "P11!prod",
+       { "id": "P11!prod",
        "name_s": "Swingline Stapler",
        "description_t": "The Cadillac of office staplers ...",
        "skus": [ { "id": "P11!S21",
@@ -1907,7 +1907,7 @@ After changing the file upconfig with the desired name
                       "pages_i":42,
                       "content_t": "Start by removing the cap ..."
                     } ]
-     } ]
+     } 
           ]'
     
     
