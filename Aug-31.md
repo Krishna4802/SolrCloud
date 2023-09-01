@@ -45,3 +45,86 @@
 <img width="916" alt="image" src="https://github.com/Krishna4802/SolrCloud/assets/139359113/cfab06db-df60-4845-9c00-673038230aa9">
 
 
+### Json Facets
+
+    curl http://localhost:8985/solr/test1/query -d '
+    {
+      "query": "*:*",
+      "facet": {
+        "categories" : {
+          "type": "terms",
+          "field": "cat",
+          "limit": 3
+        }
+      }
+    }'
+
+
+
+Output :
+
+      "response":{"numFound":49,"start":0,"maxScore":1.0,"numFoundExact":true,"docs":[
+          {
+            "id":"0553573403",
+            "cat":["book"],
+            "name":"A Game of Thrones",
+            "price":7.99,
+            "price_c":"7.99,USD",
+            "inStock":true,
+            "author":"George R.R. Martin",
+            "author_s":"George R.R. Martin",
+            "series_t":"A Song of Ice and Fire",
+            "sequence_i":1,
+            "genre_s":"fantasy",
+            "_version_":1775815358787092480,
+            "price_c____l_ns":799},
+      "facets":{
+        "count":49,
+        "categories":{
+          "buckets":[{
+              "val":"electronics",
+              "count":12},
+            {
+              "val":"book",
+              "count":10},
+            {
+              "val":"currency",
+              "count":4}]}}}
+
+
+*** 
+
+
+    curl http://localhost:8985/solr/test1/query -d '
+    {
+      "query": "*:*",
+      "facet": {
+        "high_popularity": {
+          "type": "query",
+          "q": "popularity:[8 TO 10]"
+        }
+      }
+    }'
+
+
+Output
+
+    "response":{"numFound":49,"start":0,"maxScore":1.0,"numFoundExact":true,"docs":[
+          {
+            "id":"0553573403",
+            "cat":["book"],
+            "name":"A Game of Thrones",
+            "price":7.99,
+            "price_c":"7.99,USD",
+            "inStock":true,
+            "author":"George R.R. Martin",
+            "author_s":"George R.R. Martin",
+            "series_t":"A Song of Ice and Fire",
+            "sequence_i":1,
+            "genre_s":"fantasy",
+            "_version_":1775815358787092480,
+            "price_c____l_ns":799},
+      "facets":{
+        "count":49,
+        "high_popularity":{
+          "count":2}}}
