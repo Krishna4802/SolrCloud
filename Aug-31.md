@@ -39,7 +39,9 @@
         "facet.mincount":"1",
         "facet":"true",
         "facet.sort":"count"
-Output:
+        
+#### Output:
+
 <img width="916" alt="image" src="https://github.com/Krishna4802/SolrCloud/assets/139359113/cfab06db-df60-4845-9c00-673038230aa9">
 
 
