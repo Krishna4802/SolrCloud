@@ -128,3 +128,20 @@ Output
         "count":49,
         "high_popularity":{
           "count":2}}}
+
+
+
+### Stats component
+
+    curl 'http://localhost:8985/solr/test1/select?q=*:*&rows=2&stats=true&stats.field=price'
+
+<img width="535" alt="Pasted Graphic 7" src="https://github.com/Krishna4802/SolrCloud/assets/139359113/b35cb832-64dd-4a6e-ad02-e4298f732c50">
+
+
+### Boosting
+
+The process of giving higher relevance to a set of documents over others is called boosting
+
+    * defType=edismax&q=black&qf=text name^2.0 
+
+<img width="1113" alt="Pasted Graphic 8" src="https://github.com/Krishna4802/SolrCloud/assets/139359113/08ff63d3-79e1-4843-b729-a8c932a9f47b">
