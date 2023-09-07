@@ -1,4 +1,4 @@
-# MLT - More Like This
+# MLT - More Like This 
 
 
 ### Add the following in solrconfig.xml
@@ -12,7 +12,7 @@
 
 
 
-## CURL Commands
+## CURL Commands :
 
     curl "http://localhost:8983/solr/mlt/mlt?mlt.fl=genre&mlt.interestingTerms=details&mlt.match.include=true&mlt.mindf=0&mlt.mintf=0&q=genre:"Fiction""
 * mlt.fl=genre: Specifies that you want to perform the MLT query based on the "genre" field.
@@ -49,7 +49,7 @@ The output indicates that you have found documents similar to the input document
 
 
 
-## Data I used 
+## Data I used :
 
     [
       {
