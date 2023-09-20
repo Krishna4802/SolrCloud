@@ -61,3 +61,63 @@ Shell
     echo “$(date): Verifying the record in solr again”
     curl -s “http://localhost:8983/solr/commit/select?q=*:*"
     ls -lhtr /solr-8.11.2/example/cloud/node1/solr/commit_shard2_replica_n2/data/tlog
+
+
+
+
+### OUTPUT:
+
+    Sun Sep 17 07:13:00 UTC 2023: Indexing Sample Record
+    {
+      "responseHeader":{
+        "rf":1,
+        "status":0,
+        "QTime":10}}
+    Sun Sep 17 07:13:00 UTC 2023: Verifying the record in solr
+    {
+      "responseHeader":{
+        "zkConnected":true,
+        "status":0,
+        "QTime":4,
+        "params":{
+          "q":"*:*"}},
+      "response":{"numFound":0,"start":0,"maxScore":0.0,"numFoundExact":true,"docs":[]
+      }}
+    total 20K
+    -rw-r--r-- 1 root root  46 Sep 17 07:12 tlog.0000000000000000001
+    Sun Sep 17 07:13:00 UTC 2023: Sleeping for 30 seconds to finish soft commit
+    Sun Sep 17 07:13:30 UTC 2023: Verifying the record in solr again
+    {
+      "responseHeader":{
+        "zkConnected":true,
+        "status":0,
+        "QTime":9,
+        "params":{
+          "q":"*:*"}},
+      "response":{"numFound":1,"start":0,"maxScore":1.0,"numFoundExact":true,"docs":[
+          {
+            "id":"1",
+            "title":["Sample Document"],
+            "content":["This is a sample document for indexing in Solr."],
+            "_version_":1777267931970797568}]
+      }}
+    total 20K
+    -rw-r--r-- 1 root root  75 Sep 17 07:13 tlog.0000000000000000001
+    Sun Sep 17 07:13:30 UTC 2023: Sleeping for 30 seconds to finish hard commit
+    Sun Sep 17 07:14:00 UTC 2023: Verifying the record in solr again
+    {
+      "responseHeader":{
+        "zkConnected":true,
+        "status":0,
+        "QTime":12,
+        "params":{
+          "q":"*:*"}},
+      "response":{"numFound":1,"start":0,"maxScore":1.0,"numFoundExact":true,"docs":[
+          {
+            "id":"1",
+            "title":["Sample Document"],
+            "content":["This is a sample document for indexing in Solr."],
+            "_version_":1777267931970797568}]
+      }}
+    total 20K
+    -rw-r--r-- 1 root root  75 Sep 17 07:13 tlog.0000000000000000001
