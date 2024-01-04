@@ -28,6 +28,9 @@
 # To reload collection
     curl 'http://localhost:8983/solr/admin/collections?action=RELOAD&name=patent_1'  Stop command : bin/solr stop -all start again command : bin/solr start -c -p 8983 -z localhost:2181/solr -force
 
+    Stop command : bin/solr stop -all 
+    start again command : bin/solr start -c -p 8983 -z localhost:2181/solr -force
+
 # Command for deleting config
     curl -X DELETE "http://localhost:8088/solr/admin/configs?action=DELETE&name=test"
 
@@ -39,6 +42,9 @@
       "commit": {}
     }'
 
+    <delete><query>*:*</query></delete> in UI 
+
+**For searching :**  find / -name "start.jar" 2>/dev/null
 
 # Python code index the data  import requests
 
@@ -68,4 +74,10 @@
             collection_name = "patent_1"
             data_file_path = "/Users/krishnaprasath/Documents/postgress/data.json"
             index_data_to_solr_cloud(solr_cloud_url, collection_name, data_file_path)
-          
+
+
+## Upconfig and Downconfig
+
+        solr-8.7.0/server/scripts/cloud-scripts/zkcli.sh -zkhost "localhost:2181" -cmd downconfig -confname analyst_default_conf -confdir "/tmp/analyst_conf_8_11"
+        
+        solr-8.11.2/server/scripts/cloud-scripts/zkcli.sh -zkhost "localhost:2181" -cmd upconfig -confname  -confdir "/tmp/acl_test
