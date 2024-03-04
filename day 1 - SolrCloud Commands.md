@@ -20,6 +20,9 @@
        15  cd ../
        16  bin/solr zk upconfig -n test -d server/solr/configsets/test/conf -z 172.17.0.2:9983     
 
+# Child filter
+    *,[child parentFilter=id:* limit=-1]
+
 
 # to check logs  
     cd /solr-8.11.0/example/cloud/node1/solr/../logs
