@@ -8,7 +8,7 @@
 
 * create the simp link for the initial folder in the /solr-8.11.2/example/cloud/node2/solr/ with the same name.
 
-        ln -s /solr_node_bkp/Shard_test_shard1_replica_n1/ Shard_test_shard1_replica_n1
+      ln -s /solr_node_bkp/Shard_test_shard1_replica_n1/ Shard_test_shard1_replica_n1
 
 * restart solr 
 
